@@ -1,0 +1,6 @@
+# 万事达卡中国
+# 建议策略：DIRECT
+# 包含中国官网、历史入口、跳转入口和相应子域名。
+
+DOMAIN-SUFFIX,mastercard.com.cn
+DOMAIN-SUFFIX,mastercard.cn
