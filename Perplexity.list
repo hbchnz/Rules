@@ -1,0 +1,9 @@
+# Perplexity
+# 建议策略：AI
+# 包含主站、API、开发文档、帮助中心、官方短链和用户上传图片资源。
+# 图片资源仅匹配 Perplexity 使用的 Cloudinary 独立主机，不会覆盖整个 Cloudinary。
+
+DOMAIN-SUFFIX,perplexity.ai
+DOMAIN-SUFFIX,perplexity.com
+DOMAIN-SUFFIX,pplx.ai
+DOMAIN,pplx-res.cloudinary.com
