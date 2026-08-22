@@ -1,7 +1,6 @@
 # Manus
 # https://github.com/hbchnz/Rules
 
-
 payload:
   - DOMAIN,manus.go.link
   - DOMAIN-SUFFIX,manus.im
