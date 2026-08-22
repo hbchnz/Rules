@@ -1,7 +1,6 @@
 # MastercardCN
-# [https://github.com/hbchnz/Rules](https://github.com/hbchnz/Rules)
-# 建议策略：DIRECT
-# 包含中国官网、历史入口、跳转入口和相应子域名。
+# https://github.com/hbchnz/Rules
+
 
 DOMAIN-SUFFIX,mastercard.com.cn
 DOMAIN-SUFFIX,mastercard.cn
