@@ -1,7 +1,6 @@
 # MastercardCN
 # https://github.com/hbchnz/Rules
 
-
 payload:
   - DOMAIN-SUFFIX,mastercard.com.cn
   - DOMAIN-SUFFIX,mastercard.cn
