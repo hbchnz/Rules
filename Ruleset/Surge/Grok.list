@@ -1,8 +1,8 @@
 # Grok
+# [https://github.com/hbchnz/Rules](https://github.com/hbchnz/Rules)
 # 建议策略：AI
 # 包含 Grok 网页、认证、API、管理接口、静态资源、代码会话和 xAI 官方服务。
 # 不包含 x.com，避免将整个 X 平台一并导入 AI 策略。
 
-payload:
-  - DOMAIN-SUFFIX,grok.com
-  - DOMAIN-SUFFIX,x.ai
+DOMAIN-SUFFIX,grok.com
+DOMAIN-SUFFIX,x.ai
