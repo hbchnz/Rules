@@ -1,0 +1,11 @@
+# Manus
+# 建议策略：AI
+# 包含主站、API、静态资源、网站托管、邮件功能和移动应用深链。
+
+payload:
+  - DOMAIN,manus.go.link
+  - DOMAIN-SUFFIX,manus.im
+  - DOMAIN-SUFFIX,manus.ai
+  - DOMAIN-SUFFIX,manuscdn.com
+  - DOMAIN-SUFFIX,manus.space
+  - DOMAIN-SUFFIX,manus.bot
