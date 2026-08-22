@@ -1,6 +1,7 @@
 # Perplexity
 # https://github.com/hbchnz/Rules
 
+
 DOMAIN-SUFFIX,perplexity.ai
 DOMAIN-SUFFIX,perplexity.com
 DOMAIN-SUFFIX,pplx.ai
