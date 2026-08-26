@@ -1,7 +1,5 @@
 # NVIDIA（GeForce / 驱动下载 / NVIDIA App）
 # https://github.com/hbchnz/Rules
-# 建议策略：DIRECT
-# 依据 v2fly domain-list-community 的 nvidia 分类整理
 
 DOMAIN-SUFFIX,nvidia.com
 DOMAIN-SUFFIX,nvidia.cn
