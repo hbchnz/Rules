@@ -1,0 +1,8 @@
+# Hermes Agent
+# https://github.com/hbchnz/Rules
+# 建议策略：PROXY（登录门户 / 推理 API / 文档与更新 / Skills Hub 需走代理）
+
+DOMAIN-SUFFIX,nousresearch.com
+DOMAIN-SUFFIX,models.dev
+DOMAIN-SUFFIX,agentskills.io
+DOMAIN-SUFFIX,skills.sh
