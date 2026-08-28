@@ -1,0 +1,5 @@
+# 蚂蚁阿福（AI 健康助手，原 AQ）
+# https://github.com/hbchnz/Rules
+
+payload:
+  - DOMAIN-SUFFIX,antafu.com
