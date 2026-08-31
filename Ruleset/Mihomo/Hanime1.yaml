@@ -1,0 +1,6 @@
+# Hanime1（网站 / 图片 / 视频）
+# https://github.com/hbchnz/Rules
+
+payload:
+  - DOMAIN-SUFFIX,hanime1.me
+  - DOMAIN,vdownload.hembed.com
